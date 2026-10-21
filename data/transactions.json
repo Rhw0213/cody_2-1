@@ -1,0 +1,2 @@
+{"id": "TX-000001", "type": "expense", "date": "2026-10-19", "amount": 15000, "category": "Food", "memo": "점심 식사", "tags": ["lunch"]}
+{"id": "TX-4", "type": "income", "date": "2026-10-18", "amount": 1000, "category": "", "memo": "", "tags": []}
